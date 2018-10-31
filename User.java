@@ -1,4 +1,0 @@
-private username;
-private password;
-
-
